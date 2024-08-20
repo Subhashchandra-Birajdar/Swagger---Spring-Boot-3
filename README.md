@@ -1,9 +1,9 @@
 # Swagger with Spring Boot 3 and Java 17
-Integration swagger open API with spring boot 3
+Integration swagger open API with spring boot 3 and Java 17
 
-# Build Tool - Maven
+# Build Tool Used in this project - Maven
 
-# Dependencies Required
+# Dependencies Required for this project
 * Spring web
 * lombok
 * springdoc-openapi-starter-webmvc-ui dependency
@@ -16,10 +16,8 @@ Integration swagger open API with spring boot 3
 
 # Swagger Url
 - http://localhost:8080/swagger-ui.html
-
 # Swagger UI Screen 1:
 ![Swagger img 1](https://github.com/user-attachments/assets/f967d44b-62c2-4c6b-b26b-151b7f952d07)
-
 # Swagger UI Screen 2:
 ![Swagger img 2](https://github.com/user-attachments/assets/e38a2708-b4e2-4b12-a8d8-2d129a051f5d)
 
